@@ -1,0 +1,38 @@
+Metadata-Version: 2.1
+Name: image-processing-ess
+Version: 0.0.1
+Summary: Package for image processing
+Home-page: https://github.com/eldersoares52/image_processing-DIO.git
+Author: Elder
+Author-email: elder.soares52@gmail.com
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+
+# image_processing_ess
+
+Description. 
+The package package_name is used to:
+	Processing:
+		- Histogram matching 
+		- Structural similarity
+		- Resize image
+	Utils:
+		- Read image
+		- Save image
+		- Plot image
+		- Plot result
+		- Plot histogram 
+
+## Installation
+
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
+
+```bash
+pip install image_processing_ess
+```
+
+## Author
+Elder
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
